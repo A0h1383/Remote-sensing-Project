@@ -1,5 +1,5 @@
 # Remote-sensing-Project
-Project of  Remote sensing in Google Earth Engine
+Remote Sensing Projects in Google Earth Engine
 
 # Google Earth Engine projects extracted from screenshots
 
