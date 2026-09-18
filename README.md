@@ -16,6 +16,7 @@ Remote Sensing Projects in Google Earth Engine
 - `flow_463`, `flow_927`: پارامترهای visualization که در اسکریپت جهت/تجمع جریان به‌صورت Import استفاده شده‌اند
 
 ## پروژه‌ها
+<div align = 'center'>
 
 | فایل | موضوع | تصاویر منبع |
 |:---:|:---:|:---:|
@@ -31,6 +32,8 @@ Remote Sensing Projects in Google Earth Engine
 | `10_topographic_diversity.js` | تنوع توپوگرافی | 31 |
 | `11_drylands.js` | لایه مناطق خشک | 32 |
 | `12_landsat9_ndvi_tirs_lst.js` | NDVI، TIRS و ترکیب Landsat 8/9 برای LST | 33–38 |
+
+</div>
 
 ## پروژه نمایش رنگی ماهواره Landsat 8
 
