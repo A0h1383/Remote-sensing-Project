@@ -23,7 +23,6 @@
 
 | فایل | موضوع |
 |:---:|:---:|
-| `01_landsat8_basic_ndvi.js` | تعریف محدوده مطالعاتی |
 | `02_gfsad_landcover.js` | پوشش اراضی GFSAD1000 |
 | `03_esfahan_canny_hough.js` | تشخیص لبه Canny و تبدیل Hough |
 | `04_esfahan_zero_crossing.js` | Zero Crossing با Difference of Gaussian |
