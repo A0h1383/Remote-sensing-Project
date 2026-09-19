@@ -11,8 +11,8 @@
 <div dir="rtl">
 
 - <bdi><code>geometry</code></bdi> : محدوده مطالعاتی به‌صورت پلیگون ترسیمی
-- <bdi><code>table</code></bdi> : محدوده مطالعاتی واردشده از بخش Assets
-- <bdi><code>Iran</code></bdi> : دارایی Province برای محدوده ایران
+- <bdi><code>table</code></bdi> : محدوده مطالعاتی به صورت شیپ فایل
+- <bdi><code>Iran</code></bdi> : محدوده ایران
 - <bdi><code>imageVisParam</code></bdi> : پارامترهای بصری‌سازی تصویر
 
 </div>
