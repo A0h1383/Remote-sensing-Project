@@ -8,20 +8,12 @@
 
 </div>
 
+<div dir="rtl">
 
-<div dir="rtl" align="right">
-
-<h3>نکته مهم درباره متغیرهای Imports</h3>
-
-<p>در برخی اسکریپت‌ها، یک یا چند متغیر از بخش <b>Imports</b> محیط Google Earth Engine استفاده شده است. پیش از اجرای کد، این متغیرها را دوباره وارد کنید:</p>
-
-<ul>
-  <li><code>geometry</code> — محدوده مطالعاتی به‌صورت پلیگون ترسیمی</li>
-  <li><code>table</code> — محدوده مطالعاتی واردشده از بخش Assets</li>
-  <li><code>Iran</code> — دارایی Province برای محدوده ایران</li>
-  <li><code>imageVisParam</code>، <code>True_color_</code>، <code>False_color_</code> و <code>slope_</code> — پارامترهای بصری‌سازی</li>
-  <li><code>flow_463</code> و <code>flow_927</code> — پارامترهای بصری‌سازی لایه‌های تجمع جریان</li>
-</ul>
+- <bdi><code>geometry</code></bdi> : محدوده مطالعاتی به‌صورت پلیگون ترسیمی
+- <bdi><code>table</code></bdi> : محدوده مطالعاتی واردشده از بخش Assets
+- <bdi><code>Iran</code></bdi> : دارایی Province برای محدوده ایران
+- <bdi><code>imageVisParam</code></bdi> : پارامترهای بصری‌سازی تصویر
 
 </div>
 
