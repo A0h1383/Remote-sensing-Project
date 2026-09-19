@@ -22,19 +22,19 @@
 <div align = 'center'>
 
 | فایل | موضوع |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | `01_landsat8_basic_ndvi.js` | تعریف محدوده مطالعاتی |
-| `02_gfsad_landcover.js` | پوشش اراضی GFSAD1000 | 10–12 |
-| `03_esfahan_canny_hough.js` | تشخیص لبه Canny و تبدیل Hough | 13 |
-| `04_esfahan_zero_crossing.js` | Zero Crossing با Difference of Gaussian | 14 |
-| `05_iran_dem_comparison.js` | مقایسه DEMها و استخراج شیب/جهت/سایه‌روشن | 19–23 |
-| `06_free_flowing_rivers.js` | استخراج و خروجی رودخانه‌ها | 17–18 |
-| `07_hydrosheds_flow.js` | جهت جریان و تجمع جریان | 24–26 |
-| `08_hydrosheds_basins.js` | استخراج حوضه آبریز و خروجی KML | 27–28 |
-| `09_iran_landcover.js` | پوشش اراضی ایران از KNTU | 29–30 |
-| `10_topographic_diversity.js` | تنوع توپوگرافی | 31 |
-| `11_drylands.js` | لایه مناطق خشک | 32 |
-| `12_landsat9_ndvi_tirs_lst.js` | NDVI، TIRS و ترکیب Landsat 8/9 برای LST | 33–38 |
+| `02_gfsad_landcover.js` | پوشش اراضی GFSAD1000 |
+| `03_esfahan_canny_hough.js` | تشخیص لبه Canny و تبدیل Hough |
+| `04_esfahan_zero_crossing.js` | Zero Crossing با Difference of Gaussian |
+| `05_iran_dem_comparison.js` | –23 |
+| `06_free_flowing_rivers.js` | استخراج و خروجی رودخانه‌ها 
+| `07_hydrosheds_flow.js` | جهت جریان و تجمع جریان 
+| `08_hydrosheds_basins.js` | استخراج حوضه آبریز و خروجی KML |
+| `09_iran_landcover.js` | پوشش اراضی ایران از KNTU |
+| `10_topographic_diversity.js` | تنوع توپوگرافی |
+| `11_drylands.js` | لایه مناطق خشک |
+| `12_landsat9_ndvi_tirs_lst.js` | NDVI، TIRS و ترکیب Landsat 8/9 برای LST |
 
 </div>
 
