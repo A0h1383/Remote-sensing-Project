@@ -1,6 +1,5 @@
 # Remote-sensing-Project
-Remote Sensing Projects in Google Earth Engine
-
+A collection of Google Earth Engine scripts for satellite image processing, NDVI analysis, land-cover mapping, DEM analysis, hydrology, and land surface temperature estimation.
 ## چکیده پروژه
 در این پروژه با استفاده از برنامه نویسی به زبان جاوا در محیط Google Earth Engine تحلیل‌های سنجش از دوری را انجام می‌دهیم.
 
@@ -31,6 +30,8 @@ Remote Sensing Projects in Google Earth Engine
 | `12_landsat9_ndvi_tirs_lst.js` | NDVI، TIRS و ترکیب Landsat 8/9 برای LST | 33–38 |
 
 </div>
+
+## پروژه اول
 
 ## پروژه نمایش رنگی ماهواره Landsat 8
 
