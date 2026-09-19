@@ -1,11 +1,8 @@
 # Remote-sensing-Project
 Remote Sensing Projects in Google Earth Engine
 
-# Google Earth Engine projects extracted from screenshots
-
-این پوشه شامل کدهای JavaScript مربوط به Google Earth Engine است که از تصاویر فایل اصلی بازسازی شده‌اند.
-
-## نکته مهم
+## چکیده پروژه
+در این پروژه با استفاده از برنامه نویسی به زبان جاوا در محیط Google Earth Engine تحلیل‌های سنجش از دوری را انجام می‌دهیم.
 
 در بیشتر اسکریپت‌ها یک یا چند متغیر از بخش **Imports** کد ادیتور آمده است و باید قبل از اجرا دوباره از بخش Assets/Geometry وارد شود:
 
