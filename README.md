@@ -21,9 +21,9 @@
 ## پروژه‌ها
 <div align = 'center'>
 
-| فایل | موضوع | تصاویر منبع |
+| فایل | موضوع |
 |:---:|:---:|:---:|
-| `01_landsat8_basic_ndvi.js` | فیلتر Landsat 8، نمایش رنگی و NDVI | 1, 4–9 |
+| `01_landsat8_basic_ndvi.js` | تعریف محدوده مطالعاتی |
 | `02_gfsad_landcover.js` | پوشش اراضی GFSAD1000 | 10–12 |
 | `03_esfahan_canny_hough.js` | تشخیص لبه Canny و تبدیل Hough | 13 |
 | `04_esfahan_zero_crossing.js` | Zero Crossing با Difference of Gaussian | 14 |
