@@ -1,6 +1,3 @@
-// Source screenshot: 13
-// Required imports: geometry and imageVisParam
-
 Map.centerObject(geometry);
 
 var landsat8 = ee.ImageCollection("LANDSAT/LC08/C02/T1")
