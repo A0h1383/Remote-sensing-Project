@@ -1,6 +1,3 @@
-// Source screenshots: 27–28
-// Required import: geometry (drawn polygon)
-
 Map.centerObject(geometry);
 
 var basin1 = ee.FeatureCollection("WWF/HydroSHEDS/v1/Basins/hybas_12")
