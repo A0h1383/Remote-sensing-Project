@@ -1,6 +1,3 @@
-// Source screenshots: 1, 4–9
-// Required import: geometry (drawn polygon)
-
 Map.setCenter(50.353452316844916, 35.024013059041835, 20);
 
 var landsat = ee.ImageCollection("LANDSAT/LC08/C02/T1_L2")
