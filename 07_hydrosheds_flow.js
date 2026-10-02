@@ -1,6 +1,3 @@
-// Source screenshots: 24–26
-// Required import: table = projects/rs-gee-507519/assets/Hozeh-north
-
 Map.centerObject(table);
 Map.addLayer(table);
 
