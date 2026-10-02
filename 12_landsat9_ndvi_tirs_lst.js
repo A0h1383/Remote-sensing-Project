@@ -1,6 +1,3 @@
-// Source screenshots: 33–38
-// Required import: geometry (drawn polygon)
-
 var landsat9 = ee.ImageCollection("LANDSAT/LC09/C02/T1_L2")
   .filterBounds(geometry)
   .filterDate('2022-01-01', '2022-03-01')
