@@ -1,6 +1,3 @@
-// Source screenshots: 10–12
-// Required import: geometry (drawn polygon)
-
 Map.centerObject(geometry);
 
 var landcover = ee.Image("USGS/GFSAD1000_V1")
