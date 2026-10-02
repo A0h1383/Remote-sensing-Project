@@ -1,6 +1,3 @@
-// Source screenshots: 19–23
-// Required import: table = projects/rs-gee-507519/assets/Province
-
 Map.centerObject(table);
 Map.addLayer(table);
 
