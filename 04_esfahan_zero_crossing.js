@@ -1,9 +1,3 @@
-// Source screenshot: 14
-// Required import: geometry
-
-// The screenshot starts at line 45, so the original definition of fat was
-// outside the visible area. Replace this kernel with the original imported
-// definition if you have it.
 var fat = ee.Kernel.laplacian8({normalize: false});
 
 var skinny = ee.Kernel.gaussian({
