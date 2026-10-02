@@ -1,6 +1,3 @@
-// Source screenshots: 17–18
-// Required import: geometry (drawn polygon)
-
 Map.centerObject(geometry);
 
 var river = ee.FeatureCollection("WWF/HydroSHEDS/v1/FreeFlowingRivers")
